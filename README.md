@@ -1,7 +1,6 @@
 # POS-System-Product-Analysis
 
 
-
 ##🧩 Background & Overview
 A food delivery platform observed strong user engagement at the top of the funnel, with most users successfully reaching the menu.
 
