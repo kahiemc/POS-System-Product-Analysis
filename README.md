@@ -147,6 +147,7 @@ The Tableau dashboard provides an interactive view of:
 
 🔗 [View Dashboard](https://public.tableau.com/views/PointofSaleProductFunnelAnalysis/FinalDashboardPOSFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+[View Loom Presentaion](https://www.loom.com/share/983ffb3274d54749ac0cd0e66ba8f985)
 ---
 
 ## 🛠️ Technical Details
